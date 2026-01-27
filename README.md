@@ -1,7 +1,6 @@
 ## Hi there, I'm Lex👋
 
-Hi there, I'm Mark 👋
-I'm a Full Stack Developer with 4+ years of experience specializing in frontend and backend development. I'm passionate about building web applications, desktop application, contributing to open source, and continuously learning new technologies.
+I'm a Software Engineer with a passion for building scalable, efficient, and user-friendly applications. Skilled in full-stack development, problem solving, and agile methodologies. Always eager to learn new technologies and contribute to impactful projects.
 <!--
 **alxndraaa/alxndraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
