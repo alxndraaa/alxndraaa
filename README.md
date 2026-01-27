@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Lex👋
 
+Hi there, I'm Mark 👋
+I'm a Full Stack Developer with 4+ years of experience specializing in frontend and backend development. I'm passionate about building web applications, desktop application, contributing to open source, and continuously learning new technologies.
 <!--
 **alxndraaa/alxndraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
