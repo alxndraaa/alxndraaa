@@ -60,10 +60,6 @@ I'm a Software Engineer with a passion for building scalable, efficient, and use
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-> ### 🔄 CI/CD & DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
 > ### 🔌 API & Communication
 ![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
