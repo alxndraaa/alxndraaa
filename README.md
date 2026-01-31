@@ -106,7 +106,7 @@ I'm a Software Engineer with a passion for building scalable, efficient, and use
 
 
 
-> ### 🤝 Connect with Me
+### 🤝 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandra.boyles/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alxndr_aaa/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-boyles-a03188370/)
