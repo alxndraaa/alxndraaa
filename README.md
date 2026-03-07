@@ -2,6 +2,10 @@
 
 I'm a Software Engineer with a passion for building scalable, efficient, and user-friendly applications. Skilled in full-stack development, problem solving, and agile methodologies. Always eager to learn new technologies and contribute to impactful projects. 
 
+
+
+![Coco by Teardropmybeloved](https://github.com/user-attachments/assets/9f44e2d8-2ce6-4145-bab9-b4841ac08729)
+
 ## 🛠️ Technologies & Tools
 
 > ### 🌐 Web Fundamentals
